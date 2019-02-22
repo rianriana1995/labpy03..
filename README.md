@@ -8,11 +8,11 @@ _**LATIHAN1**_
 
 **Contoh Outputnya**
 
-![latihan1](https://user-images.githubusercontent.com/46734744/53000564-496c1880-345b-11e9-9e35-151c037a6af9.png)
+![latihan1](![1](https://user-images.githubusercontent.com/46333008/53250862-df1ed680-36ed-11e9-82e2-62f410c22a54.PNG)
 
 **Tampilan ketika sudah di runfile dan memasukan jumlah N**
 
-![latihan1 runfile](https://user-images.githubusercontent.com/46734744/53000956-1aa27200-345c-11e9-84d6-26d64f7d703f.png)
+![latihan1 runfile](![2](https://user-images.githubusercontent.com/46333008/53250960-1c836400-36ee-11e9-9008-6a4bbdcf9b95.PNG)
 
 _**Latihan2**_
 
@@ -20,11 +20,11 @@ _Program untuk menampilkan bilangan **terbesar** dari n buah data yang diinputka
 
 **Contoh Outputnya**
 
-![latihan2](https://user-images.githubusercontent.com/46734744/53001324-ea0f0800-345c-11e9-8189-17c2d15b05b2.png)
+![latihan2](![3](https://user-images.githubusercontent.com/46333008/53251042-4f2d5c80-36ee-11e9-8974-8410b3f1a5da.PNG
 
 **Tampilan ketika sudah di runfile**
 
-![latihan2 runfile](https://user-images.githubusercontent.com/46734744/53001451-35291b00-345d-11e9-90fe-f2ac08591cd2.png)
+![latihan2 runfile](![4](https://user-images.githubusercontent.com/46333008/53251160-9d426000-36ee-11e9-8fcd-c7921053adb1.PNG)
 
 _**Program1.py**_
 
@@ -34,9 +34,9 @@ meningkat **5%**, selanjutnya pada bulan ke8 mengalami penurunan keuntungan sebe
 
 **Tampilan output dan cara menghitung total keuntungan selama 8 bulan berjalannya usaha**
 
-![untitled](https://user-images.githubusercontent.com/46734744/53002160-96052300-345e-11e9-86a9-8094af99beb0.png)
+![untitled](![5](https://user-images.githubusercontent.com/46333008/53251219-bea34c00-36ee-11e9-8a57-210dce816877.PNG)
 
 **Tampilan setelah di runfile dan hasil dari keuntungan selama 8 bulan berjalan**
 
-![latihan3 runfile](https://user-images.githubusercontent.com/46734744/53002302-fbf1aa80-345e-11e9-8026-758cd154d123.png)
+![latihan3 runfile](![6](https://user-images.githubusercontent.com/46333008/53251261-d7abfd00-36ee-11e9-9bf0-cd256aac9dd8.PNG)
 
