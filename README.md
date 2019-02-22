@@ -20,7 +20,7 @@ _Program untuk menampilkan bilangan **terbesar** dari n buah data yang diinputka
 
 **Contoh Outputnya**
 
-![3](https://user-images.githubusercontent.com/46333008/53251042-4f2d5c80-36ee-11e9-8974-8410b3f1a5da.PNG
+![3](https://user-images.githubusercontent.com/46333008/53251042-4f2d5c80-36ee-11e9-8974-8410b3f1a5da.PNG)
 
 **Tampilan ketika sudah di runfile**
 
